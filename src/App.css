@@ -367,3 +367,13 @@ padding: 30px;
  bottom: -10vh;
  z-index:0 ;
 }
+.page-content{
+  padding-bottom: 100vh;
+}
+.page-content button{
+  color: white;
+  background-color: #000;
+  border-radius: 50%;
+  font-size: 3vh;
+  padding: 3vh 4vh;
+}
